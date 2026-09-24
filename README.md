@@ -2,7 +2,7 @@
 
 ![Status](https://img.shields.io/badge/status-learning_in_progress-blue) ![React](https://img.shields.io/badge/React-TypeScript-149ECA?logo=react&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-Express-339933?logo=nodedotjs&logoColor=white) ![Database](https://img.shields.io/badge/Database-PostgreSQL-4169E1?logo=postgresql&logoColor=white) ![ORM](https://img.shields.io/badge/ORM-Prisma-2D3748?logo=prisma&logoColor=white)
 
-A practical learning log for moving from PHP/Laravel development to React, TypeScript, and Node.js. Over 56 days I will build a CRM dashboard with users, leads, clients, authentication, and reporting. **This is a roadmap and work in progress; features and deployment links will be added when complete.**
+A practical learning log for moving from Senior PHP/Laravel development to React, TypeScript, and Node.js. Over 56 days I will build a CRM dashboard with users, leads, clients, authentication, and reporting. **This is a roadmap and work in progress; features and deployment links will be added when complete.**
 
 ## Goal and routine
 
